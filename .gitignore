@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__
+*.sublime-*
+*.egg-info
+maajiknew/dictionaries/user.json
